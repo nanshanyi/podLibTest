@@ -1,7 +1,7 @@
 {
   "name": "podLibTest",
-  "version": "0.1.0",
-  "summary": "A short description of podLibTest.",
+  "version": "1.0.3",
+  "summary": "my PodTest.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/nanshanyi/podLibTest",
   "license": {
@@ -13,16 +13,10 @@
   },
   "source": {
     "git": "https://github.com/nanshanyi/podLibTest.git",
-    "tag": "0.1.0"
+    "tag": "1.0.3"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "podLibTest/Classes/**/*.{h,m}",
-  "subspecs": [
-    {
-      "name": "Data",
-      "source_files": "podLibTest/Classes/Data/**/*.{h,m}"
-    }
-  ]
+  "source_files": "podLibTest/Classes/**/*.{h,m}"
 }
