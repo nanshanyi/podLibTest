@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00D574282410D8193C50244421A87CA3 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = F28818225A7DE1120EE49E996F715677 /* ReplaceMe.m */; };
 		295972E57EF3B2A3B141C3782DAF5D4E /* Pods-podLibTest_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 34BC643352303672371411F08EDF8EB5 /* Pods-podLibTest_Example-dummy.m */; };
 		4050CFEDA6958F5C7EA6072F60F92C58 /* Persion.h in Headers */ = {isa = PBXBuildFile; fileRef = 3DE6026527C8A4E4682692B77E059C60 /* Persion.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		6472B0ADACF192149F6EBCB17AE75A45 /* Pods-podLibTest_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D6B42BABC8EAAB470BA0CD86C7633C0 /* Pods-podLibTest_Tests-dummy.m */; };
@@ -33,7 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		037EF4A3EFE3C0B220C9603BE1670A9A /* libPods-podLibTest_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-podLibTest_Example.a"; path = "libPods-podLibTest_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		037EF4A3EFE3C0B220C9603BE1670A9A /* libPods-podLibTest_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-podLibTest_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24B9E6C89184F33C71DFC0E15253C4EF /* Pods-podLibTest_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-podLibTest_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2E3EB8EA2AED89E24C538B1A4E6ED822 /* Pods-podLibTest_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podLibTest_Example-resources.sh"; sourceTree = "<group>"; };
 		34BC643352303672371411F08EDF8EB5 /* Pods-podLibTest_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-podLibTest_Example-dummy.m"; sourceTree = "<group>"; };
@@ -41,14 +40,14 @@
 		42B75854BFB0A00C50A27B02E97A12C1 /* podLibTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "podLibTest-dummy.m"; sourceTree = "<group>"; };
 		490113D5644C7310DD22F0CE9298DAAE /* Pods-podLibTest_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-podLibTest_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		4B6C2F8D9CDA06F31F8818088F0EA391 /* Pods-podLibTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podLibTest_Example.release.xcconfig"; sourceTree = "<group>"; };
-		4C47733E137A65433E9E66E0C370EDBB /* libpodLibTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libpodLibTest.a; path = libpodLibTest.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		4EF531C9039029369FE7FE989D9AE5F2 /* podLibTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = podLibTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		4C47733E137A65433E9E66E0C370EDBB /* libpodLibTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libpodLibTest.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4EF531C9039029369FE7FE989D9AE5F2 /* podLibTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = podLibTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		51DB5ED6F728DC05C97388C34CDD1146 /* Pods-podLibTest_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-podLibTest_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		63497263F9B99CF6A04FEA03476E464D /* Pods-podLibTest_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podLibTest_Tests-resources.sh"; sourceTree = "<group>"; };
-		636735C0892E993046EB852AB59D1815 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		636735C0892E993046EB852AB59D1815 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		6DF1D5177C2C8324A3C1B8579A6AE43A /* Pods-podLibTest_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podLibTest_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		8035C41282EBEC32FFAB9394D5ED912C /* libPods-podLibTest_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-podLibTest_Tests.a"; path = "libPods-podLibTest_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8035C41282EBEC32FFAB9394D5ED912C /* libPods-podLibTest_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-podLibTest_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D6B42BABC8EAAB470BA0CD86C7633C0 /* Pods-podLibTest_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-podLibTest_Tests-dummy.m"; sourceTree = "<group>"; };
 		A2C539C58706158EF8F0D410211143BC /* Persion.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Persion.m; path = podLibTest/Classes/Persion.m; sourceTree = "<group>"; };
 		A37689F3414A74369CB1116309FB0149 /* Pods-podLibTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podLibTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -56,8 +55,7 @@
 		CD311C77CB96F8784483A3D9C13C6618 /* Pods-podLibTest_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-podLibTest_Example-frameworks.sh"; sourceTree = "<group>"; };
 		D5294C1F42C2C0658AF69095C68F7387 /* podLibTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = podLibTest.xcconfig; sourceTree = "<group>"; };
 		DC12ADED8950785C969B54E6BBB5C473 /* Pods-podLibTest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podLibTest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		E3E9BE1FDC28C4E981204020EDBAD704 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		F28818225A7DE1120EE49E996F715677 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = podLibTest/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		E3E9BE1FDC28C4E981204020EDBAD704 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F9DE8E22301564C51DB0980C82101961 /* podLibTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "podLibTest-prefix.pch"; sourceTree = "<group>"; };
 		FDE731C90A3298934A13E10649855D18 /* Pods-podLibTest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-podLibTest_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -180,7 +178,6 @@
 			children = (
 				3DE6026527C8A4E4682692B77E059C60 /* Persion.h */,
 				A2C539C58706158EF8F0D410211143BC /* Persion.m */,
-				F28818225A7DE1120EE49E996F715677 /* ReplaceMe.m */,
 				518658DF65B6B156379BB7F47CB345A1 /* Pod */,
 				51F6170B88E3FCFB15FEBF34EF6BC99B /* Support Files */,
 			);
@@ -328,7 +325,6 @@
 			files = (
 				D13771667004854559EE5DBF90AA52A3 /* Persion.m in Sources */,
 				A2D49BFCDECEA0D6B9C6FC4D949C0CCC /* podLibTest-dummy.m in Sources */,
-				00D574282410D8193C50244421A87CA3 /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
