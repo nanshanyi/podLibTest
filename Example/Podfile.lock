@@ -1,0 +1,18 @@
+PODS:
+  - podLibTest (0.1.0):
+    - podLibTest/Data (= 0.1.0)
+  - podLibTest/Data (0.1.0)
+
+DEPENDENCIES:
+  - podLibTest (from `../`)
+
+EXTERNAL SOURCES:
+  podLibTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podLibTest: 6c8be9b49040499d233e974170891db2c01f6287
+
+PODFILE CHECKSUM: 5c99dcfede51f39859d80e49913cf8f96acdafb8
+
+COCOAPODS: 1.5.3
